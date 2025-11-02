@@ -51,7 +51,7 @@ int main() {
             batman.ozelGuc(spiderman);
         }
         else {
-            cout << "Hatalı seçim!" << endl;
+            cout << "⚠️ Hatalı seçim!" << endl;
         }
 
         cout << "Spiderman kalan can: " << spiderman.can 
@@ -67,4 +67,5 @@ int main() {
     }
 
     return 0;
+
 }
